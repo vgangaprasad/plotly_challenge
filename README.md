@@ -42,6 +42,7 @@ used the following values from the JSON file for the charts:
 ![Bubble Chart](Images/bubble_chart.png)
 
 4. Displayed the sample metadata, i.e., an individual's demographic information.
+
 ![Sample Metadata](Images/metadata.png)
 
 5. Displayed the washing frequency of belly button in a Gauge Chart and this will be updated whenever a new sample is selected
