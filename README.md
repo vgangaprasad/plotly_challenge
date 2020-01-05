@@ -1,4 +1,4 @@
-# plotly_challenge
+# Plotly_challenge
 Analysis of microbes that colonize human navels
 
 ![Bacteria by filterforge.com](Images/bellybutton.png)
