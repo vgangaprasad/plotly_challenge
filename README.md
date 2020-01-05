@@ -1,4 +1,14 @@
-# Plotly_challenge
+# PLotly Challenge: Interactive Visualizations and Dashboard
+
+- Used Flask to design an API for belly button biodiversity dataset and to serve the HTML and JavaScript required for my dashboard page. 
+
+- Used Plotly.js and DOM manipulation to build interactive charts for dashboard.
+
+- Used CSS Bootstrap and HTML for dashboard design.
+
+- Deployed to Github: https://vgangaprasad.github.io/plotly_challenge/
+
+
 Analysis of microbes that colonize human navels
 
 ![Bacteria by filterforge.com](Images/bellybutton.png)
